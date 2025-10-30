@@ -1,0 +1,22 @@
+<puzzle size="9" nom="Hardcore">
+  <paire>
+    <point colonne="0" ligne="0" />
+    <point colonne="8" ligne="8" />
+  </paire>
+  <paire>
+    <point colonne="0" ligne="8" />
+    <point colonne="8" ligne="0" />
+  </paire>
+  <paire>
+    <point colonne="4" ligne="0" />
+    <point colonne="4" ligne="8" />
+  </paire>
+  <paire>
+    <point colonne="0" ligne="4" />
+    <point colonne="8" ligne="4" />
+  </paire>
+  <paire>
+    <point colonne="2" ligne="2" />
+    <point colonne="6" ligne="6" />
+  </paire>
+</puzzle>

@@ -1,0 +1,18 @@
+<puzzle size="7" nom="Puzzle moyen">
+  <paire>
+    <point colonne="0" ligne="0" />
+    <point colonne="6" ligne="0" />
+  </paire>
+  <paire>
+    <point colonne="0" ligne="1" />
+    <point colonne="6" ligne="1" />
+  </paire>
+  <paire>
+    <point colonne="3" ligne="2" />
+    <point colonne="3" ligne="6" />
+  </paire>
+  <paire>
+    <point colonne="0" ligne="6" />
+    <point colonne="6" ligne="6" />
+  </paire>
+</puzzle>
